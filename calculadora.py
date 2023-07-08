@@ -1,4 +1,4 @@
-     # Calculadora Py #
+     # Calculadora Py Alterada #
 Soma = 1
 Subtração = 2
 Multiplicação = 3
